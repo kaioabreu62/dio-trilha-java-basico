@@ -31,7 +31,8 @@ public class Contador {
             //Realizar o for para imprimir os números com base na variável contagem
             for (int interacoes = parametroUm; interacoes < parametroDois; interacoes++) {
                 qtdInteracoes++;
-                System.out.println("Imprimindo o número " + qtdInteracoes);
+                contagem = qtdInteracoes;
+                System.out.println("Imprimindo o número " + contagem);
             }
         }
     }

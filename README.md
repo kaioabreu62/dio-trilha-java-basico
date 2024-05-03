@@ -1,2 +1,2 @@
 # dio-trilha-java-basico
-Repositório para exercícios de Java básica pela DIO
+Repositório para exercícios de Java básico pela DIO
